@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from telegram import Bot
 
 # Configuración del bot
-TOKEN = '8430737352:AAF8ilB8sip05ldOuiaEA6LTwO0DGtU5Ecg'
+TOKEN = '8430737352:AAF8ilB8sip0***********'
 CHAT_ID = 691216915
 bot = Bot(token=TOKEN)
 
